@@ -31,8 +31,14 @@ h2{
 #bio-image{
     float:left;
     width:200px;
+    height:200px;
     margin:1%;
 }
 p{
     text-align:justify;
+}
+#bio-name{
+    position:absolute;
+    top:150px;
+    left:2%;
 }
