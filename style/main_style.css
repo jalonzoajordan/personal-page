@@ -1,3 +1,23 @@
 h1 {
-    color: red
+    text-align: center;
+    color: rgb(170, 86, 86);
+}
+h2 {
+    color: rgb(29, 29, 109);
+}
+h3 {
+    color: green;
+}
+img {
+    box-shadow: inset;
+}
+section {
+    background-color: aqua;
+}
+p {
+    font-size:larger;
+    color: blueviolet;
+}
+ul {
+    border: 5px solid black;
 }
